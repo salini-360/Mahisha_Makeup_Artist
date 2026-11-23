@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://mahishamakeover.in/sitemap.xml
+
+Sitemap: https://mahishamakeover.in/sitemap.xml
